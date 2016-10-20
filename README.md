@@ -25,7 +25,7 @@ __Prep your computer:__
 
 1. Install Anaconda (if you haven't already). See: https://www.continuum.io/downloads
 1. Download our starter code:
-    1. Go to https://github.com/turboquant/kungfu
+    1. Go to https://github.com/turboquant/datakungfu
     2. Click "Download ZIP".
     3. Save and unzip the file (and take note of where you saved it).
 
